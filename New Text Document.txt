@@ -1,28 +1,9 @@
+# Details 
 This this my  API testing project. This repository contains a Postman collection and environment designed to facilitate API testing for various functionalities related to student management. The API allows operations such as fetching student details, creating new students, retrieving specific students, adding technical skills, and managing student addresses. 
-
-# Details  
 I have Completed an API test of student details, Create Student, Get Specific Student, Create Technical Skills, and Create Student Address.
-https://thetestingworldapi.com/   
-<p align="center">
-  < />
-</p>                                                                                                                                                                                                                                              
- 
-
 Here in this API student details viewed and different tests were performed like GET, POST, PUT, DELETE.
 
-**Summary:** Test Scripts 6 and Total 20 assertions were done. All of them passed with 0 skipped tests. The number of iteration was 1.
-
-
-
-# Requirements  
-**Java**  
-https://www.oracle.com/java/technologies/downloads/   
-**Postman**   
-https://www.postman.com/   
-**Node JS**   
-https://nodejs.org/en/    
-
-
+Test Scripts 6 and Total 20 assertions were done. All of them passed with 0 skipped tests. The number of iteration was 1.
 
 # Assertions Details    
 #### Get Student
